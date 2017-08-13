@@ -1,5 +1,5 @@
 {
-  "tokenColors": "./bluloco-dark.tmTheme",
+  "tokenColors": "./bluloco-dark-plus.tmTheme",
   "colors": {
     "focusBorder": "#3691ff",
     "editor.background": "#282c34",
@@ -121,5 +121,5 @@
     "welcomePage.buttonHoverBackground": "#3A3E68",
     "walkThrough.embeddedEditorBackground": "#22252A"
   },
-  "name": "Bluloco Dark"
+  "name": "Bluloco Dark+"
 }

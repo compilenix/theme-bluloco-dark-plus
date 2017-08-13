@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-## [2.0.1] - 2017-07-03
+## [2.0.1] - 2017-08-13
 ### Fixed
 - search colors
 - match brace colors
+
+### Changed
+- change some colors to adjust to a darker version (the reason for this project fork)
 
 ## [2.0.0] - 2017-07-01
 ### Added
@@ -20,7 +23,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Fix Javascript object property key color
 - Fix punctuations
 
-[Unreleased]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.1...HEAD
-[1.2.1]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.0...v1.2.1
-[2.0.0]: https://github.com/uloco/theme-bluloco-dark/compare/v1.2.1...v2.0.0
-[2.0.1]: https://github.com/uloco/theme-bluloco-dark/compare/v2.0.0...v2.0.1
+[Unreleased]: https://github.com/compilenix/theme-bluloco-dark-plus/compare/v2.0.1...HEAD
+[1.2.1]: https://github.com/compilenix/theme-bluloco-dark-plus/compare/v1.2.0...v1.2.1
+[2.0.0]: https://github.com/compilenix/theme-bluloco-dark-plus/compare/v1.2.1...v2.0.0
+[2.0.1]: https://github.com/compilenix/theme-bluloco-dark-plus/compare/v2.0.0...v2.0.1

@@ -7,11 +7,11 @@
 <plist version="1.0">
   <dict>
     <key>author</key>
-    <string>Umut Topuzoğlu</string>
+    <string>Compilenix</string>
     <key>name</key>
-    <string>Bluloco Dark</string>
+    <string>Bluloco Dark+</string>
     <key>semanticClass</key>
-    <string>theme.dark.bluloco_dark</string>
+    <string>theme.dark.bluloco_dark_plus</string>
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>gutterSettings</key>

@@ -1,9 +1,25 @@
 {
-  "name": "theme-bluloco-dark",
-  "displayName": "bluloco-dark",
+  "name": "theme-bluloco-dark-plus",
+  "displayName": "bluloco-dark+",
   "description": "A fancy but yet sophisticated dark designer color scheme.",
   "version": "2.0.1",
-  "publisher": "uloco",
+  "publisher": "Compilenix",
+  "author": {
+    "email": "Compilenix@gmail.com",
+    "name": "Compilenix",
+    "url": "https://compilenix.org/"
+  },
+  "contributors": [
+    {
+      "name": "Umut Topuzoğlu",
+      "email": "uloco@schiefewelt.de",
+      "url": "https://github.com/uloco"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compilenix/theme-bluloco-dark-plus/issues"
+  },
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.10.0"
@@ -11,12 +27,16 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/compilenix/theme-bluloco-dark-plus"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Bluloco Dark",
+        "label": "Bluloco Dark+",
         "uiTheme": "vs-dark",
-        "path": "./themes/bluloco-dark-color-theme.json"
+        "path": "./themes/bluloco-dark-plus-color-theme.json"
       }
     ]
   }
