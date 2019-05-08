@@ -1,5 +1,7 @@
 # theme-bluloco-dark-plus
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/compilenix/theme-bluloco-dark-plus.svg)](https://greenkeeper.io/)
+
 ### Description
 A fancy but yet sophisticated darker designer color scheme for tmTheme based editors (sublime text, textmate, visual studio code, ...).
 
